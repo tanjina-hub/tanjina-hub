@@ -1,8 +1,10 @@
-### Hi there, Tanjina Afroj here :wave:
-I'm a frontend developer specialising in React.
-I enjoy building responsive, clean websites, learning new things .
+### Hi there, Tanjina Afroj here 👋
+I've successfully completed a 12-week Data Science Bootcamp and want to build a career in the Data field.
+I'm a Data enthusiast with a passion for people, data & the stories behind them
+I learned frontend development specializing in React.
+I enjoyed building responsive, clean websites, and learning new things.
 - :telescope: Working on personal projects
-- :seedling: Learning Full Stack Web Development.
+- :seedling: Learning ML engineering and LLM.
 - :mailbox: Contact: tanjina@gmx.de
 - Portfolio site: https://tanjina-hub.github.io/Personal-Portfolio-Website/
 View my portfolio site at <a target="_blank"> </a>
@@ -22,7 +24,7 @@ View my portfolio site at <a target="_blank"> </a>
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt="vs code" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <br />
 <br />
 <hr />
