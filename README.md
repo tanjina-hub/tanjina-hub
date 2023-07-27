@@ -39,6 +39,8 @@ View my portfolio site at <a target="_blank"> </a>
 <br />
 <br />
 <br />
+<br />
+<br />
 <hr />
 <br />
 
