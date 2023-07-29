@@ -55,3 +55,21 @@ View my portfolio site at <a target="_blank"> </a>
 <br />
 <br />
 <hr />
+
+## **📊 Stats**
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanjina-hub&show_icons=true&theme=monokai&count_private=true"
+            alt="Tanjina's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjina-hub&theme=monokai"
+            alt="Tanjina's Github commit streak">
+    </a>
+</div>
+
+
+<br />
+
+
