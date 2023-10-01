@@ -1,10 +1,10 @@
 ### Hi there, Tanjina Afroj here 👋
-I've successfully completed a 12-week Data Science Bootcamp and want to build a career in the Data field.
-I'm a Data enthusiast with a passion for people, data & the stories behind them
+I hold a bachelor's degree in Computer Science & Engineering and want to build a career in the Data field.
+I'm a Data enthusiast with a passion for people, data & the stories behind them.
 I learned frontend development specializing in React.
 I enjoyed building responsive, clean websites, and learning new things.
 - :telescope: Working on personal projects
-- :seedling: Learning ML engineering and LLM.
+- :seedling: Learning ML engineering and MLOps.
 - :mailbox: Contact: tanjina@gmx.de
 - Portfolio site: https://tanjina-hub.github.io/Personal-Portfolio-Website/
 View my portfolio site at <a target="_blank"> </a>
