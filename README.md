@@ -4,8 +4,8 @@ I'm a Data enthusiast with a passion for people, data & the stories behind them.
 I learned frontend development specializing in React.
 I enjoyed building responsive, clean websites, and learning new things.
 - :telescope: Working on personal projects
-- :seedling: Learning data engineering and MLOps.
-- :mailbox: Contact: tanjina@gmx.de
+- :seedling: Learning data engineering and MLOps
+- 📧 Contact: tanjina@gmx.de
 - Portfolio site: https://tanjina-hub.github.io/Personal-Portfolio-Website/
 View my portfolio site at <a target="_blank"> </a>
 
@@ -16,6 +16,7 @@ View my portfolio site at <a target="_blank"> </a>
 - Data Visualization
 - Machine Learning
 - Feature Engineering
+- Analytical Engineering
 - SQL
 - Project Management with Kanban
 - Collaboration with Miro
