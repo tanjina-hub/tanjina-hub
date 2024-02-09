@@ -1,5 +1,5 @@
 ### Hi there, Tanjina Afroj here 👋
-I hold a bachelor's degree in Computer Science & Engineering and want to build a career in the Data field.
+I am an instructor of Data Analytics and Data Science(Former) in Spiced Academy. I hold a bachelor's degree in Computer Science & Engineering.
 I'm a Data enthusiast with a passion for people, data & the stories behind them.
 I learned frontend development specializing in React.
 I enjoyed building responsive, clean websites, and learning new things.
