@@ -1,16 +1,17 @@
 ### Hi there, Tanjina Afroj here 👋
-I am an instructor of Data Analytics and Data Science(Former) in Spiced Academy. I hold a bachelor's degree in Computer Science & Engineering.
+I am an instructor(former) of Data Analytics and Data Science in Spiced Academy. I hold a bachelor's degree in Computer Science & Engineering.
 I'm a Data enthusiast with a passion for people, data & the stories behind them.
 I also learned frontend development specializing in React back in my early days.
 I enjoyed building responsive, clean websites, and learning new things.
 - :telescope: Working on personal projects
-- :seedling: Learning data engineering and MLOps
+- :seedling: Learning data and backend engineering and MLOps
 - 📧 Contact: tanjina@gmx.de
 - Portfolio site: https://tanjina-hub.github.io/Personal-Portfolio-Website/
 View my portfolio site at <a target="_blank"> </a>
 
 ### Skills:
 
+- Kotlin(biginner)
 - Python
 - Data Analysis
 - Data Visualization
